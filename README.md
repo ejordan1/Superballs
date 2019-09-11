@@ -9,7 +9,7 @@
 _You launch shapes into the game screen, and then manipulate these shapes in various ways within the physics engine.
 
 A beta of this project is avaiable to play as a webgl build at https://emersonjordan.itch.io/od.
-It freezes the first time you launch several thousand objects on the screen, but then after the browser allocates enough resources to handle this it no longer crashes. Try to keep it under 2000 objects. The released version will be avaiable for download and will not have this issue.
+It freezes the first time you launch several thousand objects on the screen, but then after the browser allocates enough resources to handle this it no longer crashes. Try to keep it under 2000 objects. The released version will be available for download and will not have this issue.
 
 <img width="864" alt="Screen Shot 2018-05-02 at 11 15 49 AM" src="https://user-images.githubusercontent.com/20055988/64730850-d4af0900-d494-11e9-9b90-13d00aabae00.png">
 
