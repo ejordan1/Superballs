@@ -6,6 +6,7 @@
 
 ## Info
 
+Steps Until Release:
 -Optimize with entity component system
 -Build replay system/online forum for uploading sequences
 -Refine UI/create tutorial for basic commands
