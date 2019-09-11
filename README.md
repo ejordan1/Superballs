@@ -4,15 +4,7 @@
 
 #### By _**Emerson Jordan**_
 
-## Info
-
-Steps Until Release:
--Optimize with entity component system
--Build replay system/online forum for uploading sequences
--Refine UI/create tutorial for basic commands
-
-stretch goal for release:
--Create in-game terminal for complex commands/create docs for complex commands
+## Gallery
 
 These are individual frames from what is being generating and interacted with by the player in real time.
 
