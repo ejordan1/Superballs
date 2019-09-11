@@ -4,7 +4,7 @@
 
 #### By _**Emerson Jordan**_
 
-## Steps until release:
+## Info
 
 -Optimize with entity component system
 -Build replay system/online forum for uploading sequences
