@@ -6,7 +6,7 @@
 
 ## Gallery
 
-These are screen shots of real time physics based graphics generation
+These are screen shots from real time physics based graphics manipulation
 
 <img width="864" alt="Screen Shot 2018-05-02 at 11 15 49 AM" src="https://user-images.githubusercontent.com/20055988/64730850-d4af0900-d494-11e9-9b90-13d00aabae00.png">
 
