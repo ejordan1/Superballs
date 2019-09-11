@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: dc04ebe6308b14c7d9ea9b4c2f6d9d22
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blown_Reflector
+    100002: //RootNode
+    100004: Cloner_Plane_0
+    100006: Cloner_Plane_1
+    100008: Cloner_Plane_2
+    100010: Cloner_Plane_3
+    100012: Cloner_Plane_4
+    100014: Cloner_Plane_5
+    100016: Cloner_Plane_6
+    100018: Cloner_Plane_7
+    100020: Cloner_Plane_8
+    100022: Cube
+    100024: Decorator
+    100026: Double_Reflctor
+    100028: Hexagonal_Candle
+    100030: Krypton
+    100032: Ogive
+    100034: Pear_1
+    100036: Pear_Straight
+    100038: Sealed_Beam
+    100040: Sphere
+    100042: Sphere_1
+    100044: Staight_Tubular
+    100046: Straight_Sided
+    100048: T
+    100050: TA_1
+    100052: Tubular
+    400000: Blown_Reflector
+    400002: //RootNode
+    400004: Cloner_Plane_0
+    400006: Cloner_Plane_1
+    400008: Cloner_Plane_2
+    400010: Cloner_Plane_3
+    400012: Cloner_Plane_4
+    400014: Cloner_Plane_5
+    400016: Cloner_Plane_6
+    400018: Cloner_Plane_7
+    400020: Cloner_Plane_8
+    400022: Cube
+    400024: Decorator
+    400026: Double_Reflctor
+    400028: Hexagonal_Candle
+    400030: Krypton
+    400032: Ogive
+    400034: Pear_1
+    400036: Pear_Straight
+    400038: Sealed_Beam
+    400040: Sphere
+    400042: Sphere_1
+    400044: Staight_Tubular
+    400046: Straight_Sided
+    400048: T
+    400050: TA_1
+    400052: Tubular
+    2300000: Blown_Reflector
+    2300002: Cloner_Plane_0
+    2300004: Cloner_Plane_1
+    2300006: Cloner_Plane_2
+    2300008: Cloner_Plane_3
+    2300010: Cloner_Plane_4
+    2300012: Cloner_Plane_5
+    2300014: Cloner_Plane_6
+    2300016: Cloner_Plane_7
+    2300018: Cloner_Plane_8
+    2300020: Cube
+    2300022: Decorator
+    2300024: Double_Reflctor
+    2300026: Hexagonal_Candle
+    2300028: Krypton
+    2300030: Ogive
+    2300032: Pear_1
+    2300034: Pear_Straight
+    2300036: Sealed_Beam
+    2300038: Sphere
+    2300040: Sphere_1
+    2300042: Staight_Tubular
+    2300044: Straight_Sided
+    2300046: T
+    2300048: TA_1
+    2300050: Tubular
+    3300000: Blown_Reflector
+    3300002: Cloner_Plane_0
+    3300004: Cloner_Plane_1
+    3300006: Cloner_Plane_2
+    3300008: Cloner_Plane_3
+    3300010: Cloner_Plane_4
+    3300012: Cloner_Plane_5
+    3300014: Cloner_Plane_6
+    3300016: Cloner_Plane_7
+    3300018: Cloner_Plane_8
+    3300020: Cube
+    3300022: Decorator
+    3300024: Double_Reflctor
+    3300026: Hexagonal_Candle
+    3300028: Krypton
+    3300030: Ogive
+    3300032: Pear_1
+    3300034: Pear_Straight
+    3300036: Sealed_Beam
+    3300038: Sphere
+    3300040: Sphere_1
+    3300042: Staight_Tubular
+    3300044: Straight_Sided
+    3300046: T
+    3300048: TA_1
+    3300050: Tubular
+    4300000: Blown_Reflector
+    4300002: Cloner_Plane_0
+    4300004: Cloner_Plane_1
+    4300006: Cloner_Plane_2
+    4300008: Cloner_Plane_3
+    4300010: Cloner_Plane_4
+    4300012: Cloner_Plane_5
+    4300014: Cloner_Plane_6
+    4300016: Cloner_Plane_7
+    4300018: Cloner_Plane_8
+    4300020: Cube
+    4300022: Decorator
+    4300024: Double_Reflctor
+    4300026: Hexagonal_Candle
+    4300028: Krypton
+    4300030: Ogive
+    4300032: Pear_1
+    4300034: Pear_Straight
+    4300036: Sealed_Beam
+    4300038: Sphere
+    4300040: Sphere_1
+    4300042: Staight_Tubular
+    4300044: Straight_Sided
+    4300046: T
+    4300048: TA_1
+    4300050: Tubular
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blown_ReflectorMat
+    second: {fileID: 2100000, guid: e6c4bf51ca85b486e9118f82a7457c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_0Mat
+    second: {fileID: 2100000, guid: 2a05d60d731e1432fad81eed51334ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_1Mat
+    second: {fileID: 2100000, guid: ddc8d37381c764be7ac0cf450ce49b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_2Mat
+    second: {fileID: 2100000, guid: 71cd3d756e7354c3f84aa89051c73b75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_3Mat
+    second: {fileID: 2100000, guid: 49c2bf7cafcca4c2e82fce426ad7ff3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_4Mat
+    second: {fileID: 2100000, guid: d534e145aa1614d689d8a9dd757e65e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_5Mat
+    second: {fileID: 2100000, guid: 9a87f30238b40456f8c59f2b43967cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_6Mat
+    second: {fileID: 2100000, guid: 2a6c590f3cedf40c4864d98d6fc408bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_7Mat
+    second: {fileID: 2100000, guid: 0931faab747b649d5bf90f2e0db316ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloner_Plane_8Mat
+    second: {fileID: 2100000, guid: 29a29be5b05ca43619066b2d8f0b128d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMat
+    second: {fileID: 2100000, guid: 6e2dbd39fc0244ac593030692a7b937f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DecoratorMat
+    second: {fileID: 2100000, guid: a537caa9aa2a54e15ac58301a35e6497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Double_ReflctorMat
+    second: {fileID: 2100000, guid: 99a244b3ba1da443ba927395c91c189d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hexagonal_CandleMat
+    second: {fileID: 2100000, guid: bec57e28d511e471ea6c30e4f1961635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KryptonMat
+    second: {fileID: 2100000, guid: 14b0bf544b3144cf9b3a673182deb4d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OgiveMat
+    second: {fileID: 2100000, guid: ffae534704cb544c2a1d599e5069981f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pear_1Mat
+    second: {fileID: 2100000, guid: 87f60652ccd684406aeda541b4bb979c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pear_StraightMat
+    second: {fileID: 2100000, guid: 2c71b6e37818149eea31decb6f756b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sealed_BeamMat
+    second: {fileID: 2100000, guid: df305d4f8069b4916a91309f8dac8b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SphereMat
+    second: {fileID: 2100000, guid: f73b82d6dd43f47eb800616ba7c7b4c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_1Mat
+    second: {fileID: 2100000, guid: e4f6f177850e64adf8644fdb6f109f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Staight_TubularMat
+    second: {fileID: 2100000, guid: 7279437ccf12449a7875427d79853748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Straight_SidedMat
+    second: {fileID: 2100000, guid: a63dcdfd50ed54319afdd982a6132bbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TA_1Mat
+    second: {fileID: 2100000, guid: 9f2e89b8dff7149e49d9e76dd517122e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TMat
+    second: {fileID: 2100000, guid: 5c4f924383a2345d8abda49dec9d1041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TubularMat
+    second: {fileID: 2100000, guid: 1e4cbd0ea2d8c468485d031dbb566102, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

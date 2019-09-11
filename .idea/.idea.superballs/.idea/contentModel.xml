@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_superballs.-1647174705.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AVMovie" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+          <e p="RenderHeads" t="Include">
+            <e p="AVProMovieCapture" t="Include">
+              <e p="DemoScenes" t="Include">
+                <e p="Resources" t="Include">
+                  <e p="AVProMovieCapture_Plasma.shader" t="Include" />
+                </e>
+                <e p="scripts" t="Include">
+                  <e p="ScreenCaptureDemo.cs" t="Include" />
+                  <e p="ScriptCaptureDemo.cs" t="Include" />
+                  <e p="SurroundCaptureDemo.cs" t="Include" />
+                  <e p="TextureCaptureDemo.cs" t="Include" />
+                  <e p="WebcamCaptureDemo.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Resources" t="Include">
+                <e p="AVProMovieCapture_MotionBlur_Add.shader" t="Include" />
+                <e p="AVProMovieCapture_MotionBlur_Div.shader" t="Include" />
+                <e p="AVProMovieCapture_ODSMerge.shader" t="Include" />
+                <e p="CubemapToEquirectangular.shader" t="Include" />
+              </e>
+              <e p="scripts" t="Include">
+                <e p="Components" t="Include">
+                  <e p="CaptureFromCamera.cs" t="Include" />
+                  <e p="CaptureFromCamera360.cs" t="Include" />
+                  <e p="CaptureFromCamera360ODS.cs" t="Include" />
+                  <e p="CaptureFromScreen.cs" t="Include" />
+                  <e p="CaptureFromTexture.cs" t="Include" />
+                  <e p="CaptureGUI.cs" t="Include" />
+                  <e p="MotionBlur.cs" t="Include" />
+                  <e p="MouseCursor.cs" t="Include" />
+                  <e p="UnityAudioCapture.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="CaptureBaseEditor.cs" t="Include" />
+                  <e p="CaptureEditorWindow.cs" t="Include" />
+                  <e p="CaptureFromCamera360Editor.cs" t="Include" />
+                  <e p="CaptureFromCamera360ODSEditor.cs" t="Include" />
+                  <e p="CaptureFromCameraEditor.cs" t="Include" />
+                  <e p="CaptureFromScreenEditor.cs" t="Include" />
+                  <e p="CaptureFromTextureEditor.cs" t="Include" />
+                  <e p="EditorUtils.cs" t="Include" />
+                </e>
+                <e p="Internal" t="Include">
+                  <e p="CaptureBase.cs" t="Include" />
+                  <e p="Mp4FileProcessing.cs" t="Include" />
+                  <e p="NativePlugin.cs" t="Include" />
+                  <e p="Utils.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="BallClass.cs" t="Include" />
+        <e p="BallScript.cs" t="Include" />
+        <e p="BlackHole.cs" t="Include" />
+        <e p="BouncyShoot.cs" t="Include" />
+        <e p="BOXOPHOBIC" t="Include">
+          <e p="Skybox Cubemap Extended" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Skybox Cubemap Extended.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="CameraManager.cs" t="Include" />
+        <e p="CylinderScript.cs" t="Include" />
+        <e p="DragMouseOrbit.cs" t="Include" />
+        <e p="FanScript.cs" t="Include" />
+        <e p="Gatling.cs" t="Include" />
+        <e p="GeometryLaunchManager.cs" t="Include" />
+        <e p="ImageCreater.cs" t="Include" />
+        <e p="ImageManager.cs" t="Include" />
+        <e p="JSBirds" t="Include">
+          <e p="readme.txt" t="Include" />
+          <e p="Seagull" t="Include">
+            <e p="demo" t="Include">
+              <e p="scripts" t="Include">
+                <e p="SeagullCameraScript.cs" t="Include" />
+                <e p="SeagullCharacter.cs" t="Include" />
+                <e p="SeagullUserController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="living birds" t="Include">
+          <e p="demo" t="Include">
+            <e p="livingBirdsDemoScript.cs" t="Include" />
+          </e>
+          <e p="scripts" t="Include">
+            <e p="lb_Bird.cs" t="Include" />
+            <e p="lb_BirdController.cs" t="Include" />
+            <e p="lb_CrowProximity.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MeshVertManager.cs" t="Include" />
+        <e p="modelManager.cs" t="Include" />
+        <e p="mouseController.cs" t="Include" />
+        <e p="MouseLook.cs" t="Include" />
+        <e p="PrimitivePlus" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="PrimitivePlusMaterialEditor.cs" t="Include" />
+            <e p="PrimitivePlusMenuItems.cs" t="Include" />
+          </e>
+          <e p="scripts" t="Include">
+            <e p="PrimitivePlusConstants.cs" t="Include" />
+            <e p="PrimitivePlusMaterial.cs" t="Include" />
+            <e p="PrimitivePlusMeshes.cs" t="Include" />
+            <e p="PrimitivePlusObject.cs" t="Include" />
+            <e p="PrimitivePlusType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="vects.txt" t="Include" />
+        </e>
+        <e p="Static.cs" t="Include" />
+        <e p="Torec" t="Include">
+          <e p="CurvedSpace" t="Include">
+            <e p="Assets" t="Include">
+              <e p="CurvedSpace.shader" t="Include" />
+              <e p="RotationController.cs" t="Include" />
+            </e>
+            <e p="demo" t="Include">
+              <e p="CurvedSpaceDemo.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="superballs.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
