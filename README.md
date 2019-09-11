@@ -8,9 +8,8 @@
 
 _You launch shapes into the game screen, and then manipulate these shapes in various ways within the physics engine.
 
-A beta of this project is avaiable to play as a webgl build (but it takes 45 seconds to get going) at https://emersonjordan.itch.io/od
-The reason for the 45 seconds is that once you launch several thousand object onto the screen it freezes while the browser
-allocates more ram. (The released version will be avaiable for download...) It might seem like it won't ever fix itself but on Chrome Browser it does. (try to keep it under 5000 balls)
+A beta of this project is avaiable to play as a webgl build at https://emersonjordan.itch.io/od.
+It freezes the first time you launch several thousand objects on the screen, but then after the browser allocates enough resources to handle this it no longer crashes. Try to keep it under 2000 objects. The released version will be avaiable for download and will not have this issue.
 
 <img width="864" alt="Screen Shot 2018-05-02 at 11 15 49 AM" src="https://user-images.githubusercontent.com/20055988/64730850-d4af0900-d494-11e9-9b90-13d00aabae00.png">
 
