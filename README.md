@@ -6,9 +6,17 @@
 
 ## Description
 
-This project is currently in development.
+This project is currently in developments.
+Steps until release:
 
-_These are individual frames from what is being generating and interacted with by the player in real time.
+-Optimize with entity component system
+-Build replay system/online forum for uploading sequences
+-Refine UI/create tutorial for basic commands
+
+stretch goal for release:
+-Create in-game terminal for complex commands/create docs for complex commands
+
+These are individual frames from what is being generating and interacted with by the player in real time.
 
 <img width="864" alt="Screen Shot 2018-05-02 at 11 15 49 AM" src="https://user-images.githubusercontent.com/20055988/64730850-d4af0900-d494-11e9-9b90-13d00aabae00.png">
 
