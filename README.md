@@ -4,10 +4,7 @@
 
 #### By _**Emerson Jordan**_
 
-## Description
-
-This project is currently in developments.
-Steps until release:
+## Steps until release:
 
 -Optimize with entity component system
 -Build replay system/online forum for uploading sequences
