@@ -16,7 +16,8 @@ These are screen shots taken from real time game play
 
 <img width="1440" alt="Screen Shot 2019-09-11 at 1 00 06 PM" src="https://user-images.githubusercontent.com/20055988/64730993-28b9ed80-d495-11e9-8561-1bf8e13e00f4.png">
 
-<img width="1152" alt="Screen Shot 2019-09-11 at 4 07 43 PM" src="https://user-images.githubusercontent.com/20055988/64741838-d8e82000-d4ae-11e9-9a8d-91cf6671094c.png">
+<img width="1368" alt="Screen Shot 2019-09-13 at 8 01 53 AM" src="https://user-images.githubusercontent.com/20055988/64872977-07741100-d5fd-11e9-9f3f-bb3197a149b6.png">
+
 
 
 
