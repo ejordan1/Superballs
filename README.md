@@ -20,7 +20,7 @@ These are screen shots taken from real time game play
 
 Below is a link to video of the gameplay from which this last screenshot was taken. Right click the music link and select "open link in new tab" and click over to it to get it going. Then open the gameplay link and set the resolution to at least 1080p. 1440p is best.
 
-3:00 is when it starts get pretty fire, so to speak.
+Around 3 minutes is when it starts get pretty fire, so to speak.
 
 Music (Chameleon): https://www.youtube.com/watch?v=UbkqE4fpvdI   
 
