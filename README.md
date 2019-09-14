@@ -21,7 +21,7 @@ These are screen shots taken from real time game play
 
 Here is a link to the real gameplay from which this image was taken: https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
 
-Unfortunately due to Youtube compression and limitations in the Quicktime screen capturing, this video is low quality and jittery. The actual gameplay is not jittery and flashy, and has resolution up to 4k. Nonetheless, play your favorite music in the background, set the resolution to 1080 or 1440, and enjoy!
+Unfortunately due to Youtube compression and limitations in the Quicktime screen capturing, this video is low quality and jittery. The actual gameplay is not jittery and flashy, and has resolution up to 4k. Nonetheless, play your favorite music in the background, set the resolution to 1080 or 1440, and enjoy! Once you have the resolution set up skip to 3:55 for the lead up to my favorite moment!
 
 
 
