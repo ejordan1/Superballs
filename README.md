@@ -19,7 +19,7 @@ These are screen shots taken from real time game play
 <img width="1368" alt="Screen Shot 2019-09-13 at 8 01 53 AM" src="https://user-images.githubusercontent.com/20055988/64872977-07741100-d5fd-11e9-9f3f-bb3197a149b6.png">
 
 
-Below is a link to video of the gameplay from which this last screenshot was taken. This video is low quality and jittery. The actual gameplay is high quality and not jittery. Nonetheless, put your favorite music in the background, set the resolution to 1080p or 1440p, and enjoy!
+Below is a link to a video of the gameplay from which this last screenshot was taken. This video is low quality and jittery. The actual gameplay is high quality and not jittery. Nonetheless, put your favorite music in the background, set the resolution to 1080p or 1440p, and enjoy!
 
 https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
 
