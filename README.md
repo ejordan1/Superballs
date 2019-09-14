@@ -19,6 +19,8 @@ These are screen shots taken from real time game play
 <img width="1368" alt="Screen Shot 2019-09-13 at 8 01 53 AM" src="https://user-images.githubusercontent.com/20055988/64872977-07741100-d5fd-11e9-9f3f-bb3197a149b6.png">
 
 
+Here is a link to the real gameplay from which the last image was taken: https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
+Unfortunately due to Youtube compression and limitations in the Quicktime screen capturing, it is flashy and jittery. The actual gameplay is not laggy, and is higher in resolution than the screenshots presented. HOWEVER: the video can still be quite enjoyable. I recommend finding your favorite song and play it in the background, set the resolution to 1080 or 1440 if possible, and enjoy!
 
 
 
