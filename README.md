@@ -18,10 +18,12 @@ These are screen shots taken from real time game play
 
 <img width="1368" alt="Screen Shot 2019-09-13 at 8 01 53 AM" src="https://user-images.githubusercontent.com/20055988/64872977-07741100-d5fd-11e9-9f3f-bb3197a149b6.png">
 
+Below is a link to video of the gameplay from which this last screenshot was taken. Make sure to play in 1440p or at least 1080p. The actual gameplay is much higher quality and not jittery but for now this is fine. Right click the first link and select "open in new tab", then open the second link and set the resolution to the highest your internet can handle! Around 3:50 is when it stats to get really outrageous.
 
-Below is a link to a video of the gameplay from which this last screenshot was taken. This video is low quality and jittery. The actual gameplay is high quality and not jittery. Nonetheless, put your favorite music in the background, set the resolution to 1080p or 1440p, and enjoy!
+Music (Chameleon): https://www.youtube.com/watch?v=UbkqE4fpvdI   
 
-https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
+Gameplay: https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
+
 
 
 
