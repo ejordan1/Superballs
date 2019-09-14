@@ -27,7 +27,7 @@ Music (Chameleon): https://www.youtube.com/watch?v=UbkqE4fpvdI
 
 Gameplay: https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
 
-*The actual gameplay higher resolution and not jittery.
+*actual gameplay is smooth and higher quality
 
 
 ### License
