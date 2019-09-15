@@ -1,6 +1,6 @@
 # _Superballs_
 
-#### _Real-time physics based graphics performance software_
+#### _Real-time physics-based graphics performance software_
 
 #### By _**Emerson Jordan**_
 
