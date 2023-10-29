@@ -16,16 +16,9 @@ These are screen shots taken from real time game play
 
 <img width="1368" alt="Screen Shot 2019-09-13 at 8 01 53 AM" src="https://user-images.githubusercontent.com/20055988/64872977-07741100-d5fd-11e9-9f3f-bb3197a149b6.png">
 
-Below is a link to video of the gameplay from which this last screenshot was taken. Right click the music link and select "open link in new tab" and click over to it to get it going. Then open the gameplay link and set the resolution to 1440p.
-Around 3 minutes it starts to get pretty fire, so to speak.
-
-
-
-Music (Chameleon): https://www.youtube.com/watch?v=UbkqE4fpvdI   
-
+Below is a link to video of the gameplay from which this last screenshot was taken.
 Gameplay: https://www.youtube.com/watch?v=CmIgM7eTjDw&feature=youtu.be
 
-*actual gameplay is smooth and higher quality
 
 
 ### License
